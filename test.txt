@@ -1,4 +1,5 @@
 aaaaaaaaaa
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 bbbbbbbb
@@ -7,3 +8,5 @@ cccccccc
 =======
 bbbbbbbb
 >>>>>>> ff80ab2 (bbbb)
+=======
+>>>>>>> parent of ff80ab2 (bbbb)
